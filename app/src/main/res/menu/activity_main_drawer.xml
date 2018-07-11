@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_canteen"
+            android:icon="@drawable/breakfast"
+            android:title="Canteen" />
+        <item
+            android:id="@+id/nav_teashop"
+            android:icon="@drawable/coffeecup"
+            android:title="Tea Shop" />
+        <item
+            android:id="@+id/nav_auditorium"
+            android:icon="@drawable/bankbuilding"
+            android:title="Auditorium" />
+        <item
+            android:id="@+id/nav_dept1"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Mechanical Engineering" />
+        <item
+            android:id="@+id/nav_dept2"
+            android:icon="@drawable/bankbuilding"
+            android:title="Civil Engineering" />
+        <item
+            android:id="@+id/nav_dept3"
+            android:icon="@drawable/idea"
+            android:title="Electrical Engineering" />
+        <item
+            android:id="@+id/nav_dept4"
+            android:icon="@drawable/remotecontrol"
+            android:title="Electronics Engineering" />
+        <item
+            android:id="@+id/nav_dept5"
+            android:icon="@drawable/network"
+            android:title="Computer Science" />
+        <item
+            android:id="@+id/nav_dept6"
+            android:icon="@drawable/smartphone"
+            android:title="Information Technology" />
+        <item
+            android:id="@+id/nav_dept7"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="MBA department"/>
+        <item
+            android:id="@+id/nav_dept8"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="MCA department"/>
+        <item
+            android:id="@+id/nav_dept9"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Biomedical Engineering"/>
+        <item
+            android:id="@+id/nav_office"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="OFFICE ROOM"/>
+        <item
+            android:id="@+id/nav_atm"
+            android:title="ATM"/>
+        <item
+            android:id="@+id/nav_toilet"
+            android:title="Toilet"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

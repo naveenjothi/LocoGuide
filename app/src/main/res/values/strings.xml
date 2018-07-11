@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LocoGuide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Description">PSNACET is a premier institution in Tamil Nadu with International standards.Our mission is to provide world class engineering education for individuals to become technologically superior, socially conscious and responsible citizens for the welfare of mankind and to achieve academic excellence by imparting knowledge and skills through problem solving, practical training and design and development of innovative projects</string>
+    <string name="clgname">PSNA College Of Engineering and Technology</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
